@@ -1,7 +1,7 @@
 import socket
 import time
-HOST = '192.168.1.142'
-PORT = 456
+HOST = 'Servers IP'
+PORT = "Server port"
 
 sent = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 
