@@ -1,4 +1,5 @@
-"# ServerMessagesTCP" 
+"# ServerMessagesTCP with GUI" 
 "# Ενα μηκρο project " 
-"# Μεταφορα μυνηματων μεσω TCP " 
+"# Κανε απαραίτητες αλλαγές σε ip και port " 
+"# Μεταφορα μηνυμάτων μεσω TCP " 
 "# Επεξεργασια του server απο αποσταση" 
