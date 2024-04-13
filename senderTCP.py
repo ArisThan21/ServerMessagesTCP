@@ -28,7 +28,7 @@ name_label.pack()
 entry = tk.Entry(root)
 entry.pack()
 
-button = tk.Button(root, text="Εμφάνιση Μηνύματος", command=TcpMessage)
+button = tk.Button(root, text="ΑΠΟΣΤΟΛΗ Μηνύματος", command=TcpMessage)
 button.pack()
 
 text_widget = tk.Text(root, height=10, width=50)
